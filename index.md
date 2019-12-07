@@ -4,7 +4,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
   <body>
-  <img id="logo" src="Logo_Updated.png" alt="Spreadsheet Bedsheets Logo">
+  <img id="logo" src="Logo_Updated.png" alt="Spreadsheet Bedsheets Logo" padding: 0,0,10px,0>
   <div id="headersocial"><a href="https://www.instagram.com/spreadsheetbedsheets/?hl=en" class="fa fa-instagram" target="_blank"></a>
     <a href="#" class="fa fa-twitter"></a></div>
 <div id="intromessageshape">
