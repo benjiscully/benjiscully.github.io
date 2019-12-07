@@ -139,7 +139,7 @@ a:hover {
 
 
 .landingimage {
-  background-image: spreadsheet-01.png;
+  background-image: src="spreadsheet-01.png";
   min-height: 500px;
 }
 
