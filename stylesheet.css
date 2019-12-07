@@ -145,6 +145,7 @@ a:hover {
 
 .productimage {
   background-image: url("https://imgur.com/AB6fvAq");
+  min-height: 500px;
 }
 
 .productimage2 {
