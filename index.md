@@ -10,7 +10,7 @@
 <div id="intromessageshape">
 <h1 id="intromessage">Tired of counting sheep? There's a formula for that.</h1>
 </div>
-    <img id="landingimage" src="https://imgur.com/afKXtP5" alt="product">
+    <img src="https://imgur.com/afKXtP5" alt="product">
     <div class="productimage2"
          </div>
 <div id="landingpagetext">
