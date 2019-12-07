@@ -147,3 +147,8 @@ a:hover {
   background-image: url("https://github.com/benjiscully/benjiscully.github.io/blob/master/bedsheet_01.png");
   min-height: 500px;
 }
+
+.productimage2 {
+  background-image: url("https://github.com/benjiscully/benjiscully.github.io/blob/master/bedsheet_02.png");
+  min-height: 500px;
+}
