@@ -32,7 +32,5 @@
 </div>
 <a href="https://www.instagram.com/spreadsheetbedsheets/?hl=en" class="fa fa-instagram" target="_blank"></a>
 <a href="#" class="fa fa-twitter"></a>
-
-
 </body>
 </html>
