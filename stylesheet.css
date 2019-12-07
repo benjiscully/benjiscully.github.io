@@ -152,4 +152,5 @@ a:hover {
 .productimage2 {
   background-image: url("https://raw.githubusercontent.com/benjiscully/benjiscully.github.io/master/bedsheet_01.jpg");
   min-height: 500px;
+  clear: both;
 }
