@@ -28,7 +28,7 @@
 <div class="productimage">
     </div>
 <div id="footer">
-<h3 id="footertext">Sign up for your Spreadsheet Bedsheet <a href="http://bit.ly/2FvG6Le" target="_blank">right here</a> to add your spreadsheet to the waiting list.</h2>
+<h3 id="footertext">Sign up for your Spreadsheet Bedsheet <a href="http://bit.ly/2FvG6Le" target="_blank">right here</a> to add your spreadsheet to the waiting list.</h3>
 </div>
 <a href="https://www.instagram.com/spreadsheetbedsheets/?hl=en" class="fa fa-instagram" target="_blank"></a>
 <a href="#" class="fa fa-twitter"></a>
