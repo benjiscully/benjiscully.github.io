@@ -10,8 +10,8 @@
 <div id="intromessageshape">
 <h1 id="intromessage">Tired of counting sheep? There's a formula for that.</h1>
 </div>
-<!-- <img id="illustration" src="/Users/benscully/Desktop/SpreadsheetBedsheets/Spreadsheet-01.png" alt="beautiful nerd with beautiful dreams">
--->
+    <div class="productimage2"
+         </div>
 <div id="landingpagetext">
 <h2 id="landingpageheading">If you’re like us, you probably have a Google Drive account packs to the cells with spreadsheets.</h2>
 <p class="landingpage">Whether you use Excel or Sheets, you’re part of the formula. At Spreadsheet Bedsheets, we want you to take your work home with you.</p>
