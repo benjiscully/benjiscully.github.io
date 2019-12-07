@@ -4,7 +4,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
   <body>
-  <img id="logo" src="Logo_Updated.png" alt="Spreadsheet Bedsheets Logo" padding: 0,0,10px,0>
+  <img id="logo" src="Logo_Updated.png" alt="Spreadsheet Bedsheets Logo">
   <div id="headersocial"><a href="https://www.instagram.com/spreadsheetbedsheets/?hl=en" class="fa fa-instagram" target="_blank"></a>
     <a href="#" class="fa fa-twitter"></a></div>
 <div id="intromessageshape">
@@ -21,7 +21,7 @@
 <div class="landingimage">
 </div>
 <div id="productpage">
-<h2 id="productpageheading">You take your spreadsheets seriously, and so do we. All Spreadsheet Bedsheets are made with Egyptian Cotton and a 300-thread count. You worry about your spreadsheets, we’ll take care of the quality of your sleep.</h2>
+<h2 id="productpageheading">You take your spreadsheets seriously, and so do we. You worry about your spreadsheets, we’ll take care of the quality of your sleep.</h2>
 <p class="productpage">We believe that all spreadsheets are created equal, whether you’re working with a .csv, .xlsx, .xls, or .docx – we’ll work with you unless you're using Numbers. Our team of designers are just like you and won’t “Autofit Column Width” unless that’s the way you intended. And even if you’re sleeping on a Twin bed (we get it, spreadsheets can be lonely work), we’ll create the best fit for you and your spreadsheets.</p>
 <p class="productpage">At Spreadsheet Bedsheets, we have standards. It’s our belief that the more colors you use, the less effective your data becomes. And while every formula has value (especially Vlookup), we’ll let you know if you’ve gone overboard.</p>
 </div>
