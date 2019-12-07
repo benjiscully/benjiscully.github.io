@@ -10,7 +10,7 @@
 <div id="intromessageshape">
 <h1 id="intromessage">Tired of counting sheep? There's a formula for that.</h1>
 </div>
-    <div class="productimage2"
+    <div class="productimage2">
          </div>
 <div id="landingpagetext">
 <h2 id="landingpageheading">If you’re like us, you probably have a Google Drive account packs to the cells with spreadsheets.</h2>
