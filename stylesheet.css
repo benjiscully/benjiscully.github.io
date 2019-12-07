@@ -129,7 +129,7 @@ a:hover {
     color: white;
 }
 
- .productimage, .productimage2 {
+ .landingimage, .productimage, .productimage2 {
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
@@ -138,13 +138,6 @@ a:hover {
   background-size: cover;
 }
 
-.landingimage, {
-  position: relative;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 .landingimage {
   background-image: url("https://raw.githubusercontent.com/benjiscully/benjiscully.github.io/master/background_artwork.png");
